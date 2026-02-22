@@ -1,6 +1,6 @@
 # My First GitHub Project 
  
-Welcome to my GitHub project repository! 
+Welcome to my GitHub project repository! :-) .-) 
  
 ## About 
  
